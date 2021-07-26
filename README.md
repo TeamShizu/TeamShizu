@@ -36,7 +36,7 @@ You can use the website to generate badges: https://shields.io/
 
 <br>
 
-- ![Profile views](https://gpvc.arturio.TeamShizu)
+- ![Profile views](https://gpvc.arturio.dev/TeamShizu)
 
 - [![GitHub followers](https://img.shields.io/github/followers/TeamShizu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/TeamShizu?tab=followers)
 
