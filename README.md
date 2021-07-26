@@ -48,11 +48,11 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="center">
 
-  <a href="https://github.com/TeamShizu">
+  
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamShizu#version3"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamShizu#version3"/>
 
-  </a>
+
 
 </p>
 
