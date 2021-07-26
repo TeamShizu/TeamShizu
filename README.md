@@ -105,7 +105,7 @@ You can use the website to generate badges: https://shields.io/
 
 -->
 
-<a href="https://t.me/Mr_Rasiya"><img src="https://telegra.ph/file/0f297dcdbae3351330a74.jpg" width="150px" height="150px" /></a> 
+<a href="https://t.me/Mr_Rasiyaa"><img src="https://telegra.ph/file/0f297dcdbae3351330a74.jpg" width="150px" height="150px" /></a> 
 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 
