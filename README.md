@@ -44,9 +44,9 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="center"> <a href="https://github.com/TeamShizu"><img src="https://github-profile-trophy.vercel.app/?username=TeamShizu&no-bg=true" alt="TeamShizu" /></a> </p>
 
-# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
+# HEROKU STATUS <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
-# HEROKU STATUS
+
 <p align="center">
 
   
