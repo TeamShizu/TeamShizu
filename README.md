@@ -46,6 +46,7 @@ You can use the website to generate badges: https://shields.io/
 
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
+# HEROKU STATUS
 <p align="center">
 
   
@@ -56,6 +57,7 @@ You can use the website to generate badges: https://shields.io/
 
 </p>
 
+# GITHUB STATUS
 
   <a href="https://github.com/TeamShizu"><img alt="TeamShizu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TeamShizu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
