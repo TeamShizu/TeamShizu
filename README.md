@@ -2,6 +2,7 @@
 
 # Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>We are Team Shizu<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+I+am+Rasindu+Gimhan;-%3E+Web+Developer;-%3E+Graphic+Designer;-%3EYoutuber;-%3E+Music+Lover;-%3E+Programmer;-%3E+Bot+Developer)](https://git.io/typing-svg)
 <img src="https://telegra.ph/file/89336a96eb696d94558ba.jpg" style="max-width:100%;">
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
